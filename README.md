@@ -12,65 +12,19 @@ I enjoy building practical web applications, exploring machine learning concepts
 * 🐍 Working mainly with Python and Flask
 * 🛠️ Love building real-world projects and learning by doing
 
----
-
 ## ⚡ Tech Stack
-
-### 💻 Languages
-
-* Python
-* Java
-* SQL
-* HTML/CSS
-* JavaScript
+Python • Flask • SQL • HTML/CSS • JavaScript • Pandas • Scikit-learn
+> Learn • Build • Improve 🚀
 
 ### 🧰 Frameworks & Tools
-
-* Flask
-* Bootstrap
-* SQLite
-* Git & GitHub
-* VS Code
+Flask • Bootstrap • SQLite • Git & GitHub • VS Code 
 
 ### 📈 Data & ML
-
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-learn
-
----
-
-## 📌 Current Focus
-
-* Building scalable web applications
-* Improving backend development skills
-* Learning Machine Learning workflows
-* Practicing data analytics and visualization
-
----
+Pandas • NumPy • Matplotlib • Scikit-learn 
 
 ## 📂 Featured Interests
+* Full Stack Development • Machine Learning • Data Science • Backend Systems • Analytics & Visualization
 
-* Full Stack Development
-* Machine Learning
-* Data Science
-* Backend Systems
-* Analytics & Visualization
-
----
-
-## 🌱 Motto
-
-> Learn. Build. Improve. Repeat.
-
----
-
-## 📫 Connect With Me
-
-* GitHub: Add your profile link here
-* LinkedIn: Add your LinkedIn link here
-
----
-
-⭐ *Always curious about technology, innovation, and building impactful solutions.*
+* Building scalable web applications,Improving backend development skills,Learning Machine Learning workflows,Practicing data analytics and visualization
+  
+  
