@@ -2,6 +2,7 @@
 ### 🚀 Aspiring Data Scientist & Full Stack Developer
 I enjoy building practical web applications, exploring machine learning concepts, and working with data-driven solutions.
 > Learn • Build • Improve 🚀
+
 🚀 Full Stack Developer & Data Science Enthusiast
 🌐 Building Web Applications with Python & Flask
 🤖 Exploring Machine Learning & AI
