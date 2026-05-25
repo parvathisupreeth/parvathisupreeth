@@ -1,14 +1,15 @@
-# Hi there 👋 I'm Supreeth
-### 🚀 Aspiring Data Scientist & Full Stack Developer
-I enjoy building practical web applications, exploring machine learning concepts, and working with data-driven solutions.
-> Learn • Build • Improve 🚀
+# 💫 About Me:
+🚀 Aspiring Data Scientist & Full Stack Developer<br>I enjoy building practical web applications, exploring machine learning concepts, and working with data-driven solutions.<br><br>Learn • Build • Improve 🚀<br><br>🚀 Full Stack Developer & Data Science Enthusiast 🌐 Building Web Applications with Python & Flask 🤖 Exploring Machine Learning & AI 📊 Interested in Data Analysis & Visualization 🛠️ Learning by building real-world projects<br><br>📂 Featured Interests<br>Full Stack Development • Machine Learning • Data Science • Backend Systems • Analytics & Visualization<br>Building scalable web applications,Improving backend development skills,Learning Machine Learning workflows,Practicing data analytics and visualization
 
-🚀 Full Stack Developer & Data Science Enthusiast
-🌐 Building Web Applications with Python & Flask
-🤖 Exploring Machine Learning & AI
-📊 Interested in Data Analysis & Visualization
-🛠️ Learning by building real-world projects
 
-### 📂 Featured Interests
-* Full Stack Development • Machine Learning • Data Science • Backend Systems • Analytics & Visualization
-* Building scalable web applications,Improving backend development skills,Learning Machine Learning workflows,Practicing data analytics and visualization
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parvathisupreeth@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+
+![](https://streak-stats.demolab.com/?user=parvathisupreeth&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=parvathisupreeth&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
